@@ -1,0 +1,83 @@
+*,body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.heading {
+    margin: 24px;
+    text-align: center;
+}
+
+.input-form {
+    text-align: center;
+}
+
+#inputField {
+    padding: 12px;
+    width: 520px;
+    margin: 0px;
+}
+
+.add-btn {
+    padding: 12px;
+    width: 120px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+}
+
+.list {
+    margin-top: 120px;
+    text-align: center;
+    align-content: center;
+}
+
+.list h1 {
+    margin: 0 auto;
+    width: 540px;
+}
+
+.list ul {
+    list-style-type: none;
+    padding:0px;
+    margin: 0 auto;
+    width: 620px;
+    
+}
+
+.list ul li {
+    height: 43px;
+    border-bottom: 2px solid black;
+    vertical-align: middle;
+    margin-bottom: 16px;
+}
+
+.list ul li span {
+    vertical-align: bottom;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.edit {
+    float: right;
+    margin-left: 12px;
+    padding: 12px;
+    width: 120px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+}
+
+.remove {
+    float: right;
+    margin-left: 12px;
+    padding: 12px;
+    width: 120px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+}
